@@ -28,16 +28,7 @@ Open `index.html` in a browser to view the site locally.
 
 For a local development server (recommended to avoid CORS / file path issues), run:
 
-- Python 3:
-  ```
-  python -m http.server 8000
-  ```
-  then visit: http://localhost:8000
 
-- Node (with serve):
-  ```
-  npx serve .
-  ```
 
 Or use your editor's Live Server extension.
 
@@ -46,7 +37,7 @@ Or use your editor's Live Server extension.
 - GitHub Pages:
   1. Push the repo to GitHub.
   2. In the repository Settings → Pages, set the source to the `main` branch (root) or the `gh-pages` branch if you prefer.
-  3. Save — the site will be published at `https://<your-username>.github.io/<repo-name>/`.
+  3. Save — the site will be published at `https://dipadanuwr-alt.github.io/dipadanuwar-portfolio/`.
 
 - Other static hosts: Netlify, Vercel, Surge, Firebase Hosting — point the service to the repository or upload the built files.
 
